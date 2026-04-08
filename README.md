@@ -295,6 +295,9 @@ statistics for claims costs, returns and net revenue.
 
 ---
 ### 4 Risk Identification & Risk Assessment
+
+<img width="522" height="339" alt="image" src="https://github.com/user-attachments/assets/7550736d-fba9-41ad-b4d2-517cc0a65701" />
+
 A risk matrix was produced to rank the main risks 
 faced in each relevant solar system. While the 
 Bayesia System displayed relatively moderate 
