@@ -342,8 +342,9 @@ smaller increase in risk would be observed in Workers’ Compensation and Equipm
 
 ---
 ### 5 Key Assumptions
+<img width="609" height="297" alt="bce95f174196d86cb82a0ac5c7af0b5c" src="https://github.com/user-attachments/assets/b02160f9-7624-4c52-bb58-8b707b0100cc" />
 
-
+![](Key Assumptions.png)
 ---
 ### 6 Data and Data Limitations
 ### 6.1 Data Sources
