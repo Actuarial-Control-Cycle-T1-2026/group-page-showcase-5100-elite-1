@@ -63,6 +63,7 @@ were inflated by 20% to account for the additional uncertainty. Figures for prem
 limits are provided for each solar system in the table below (all monetary values are measured in 
 Đ).
 
+<img width="776" height="116" alt="image" src="https://github.com/user-attachments/assets/5c1caec8-af5d-4e83-8b05-139ece8f2c42" />
 
 The severity of claims that were approved would be measured with reference to an agreed 
 operational benchmark, depending on the extent of available data the insured could provide (see 
@@ -119,6 +120,8 @@ extreme, catastrophic losses faced by the company. In the case that a route was 
 multiple solar systems, the deductibles were applied cumulatively. The deductible list is 
 summarised in the table below.
 
+<img width="780" height="119" alt="image" src="https://github.com/user-attachments/assets/619c0580-cd2d-4a4d-906a-52fba22320e9" />
+
 A waiting period of 3 months from the start of the policy was applied due to the extreme number 
 of claims made by policyholders with an exposure of up to 3 months (see Appendix 8.2.2 for 
 visualisation).
@@ -162,6 +165,8 @@ exposure to catastrophic losses. The policyholder would be required to pay the d
 GGIC covering the remainder of the claim. This product would also exclude certain types of 
 damage to ensure affordability for GGIC (see Appendix 8.3.3 for deductible/exclusion rationale).
 
+<img width="780" height="118" alt="image" src="https://github.com/user-attachments/assets/77df8cef-5007-47a4-8aeb-36454c2b1bb3" />
+
 This product would not cover failures caused by intentional neglect as well as losses from cyberattacks and unauthorised software changes, reflecting standard exclusions observed from Earth’s 
 historical mining insurance policies (Allianz 2024; Willis Towers Watson 2025).
 
@@ -188,6 +193,8 @@ observed as well as their dependence on other significant factors unique to each
 below summarised the premium prices for each solar system. The premiums also included a 
 proportion paid to the reinsurer to cover the potential claims faced in extreme situations
 
+<img width="381" height="101" alt="image" src="https://github.com/user-attachments/assets/4c674a26-ba20-41ff-b017-206bf156f48e" />
+
 The coverage triggers of the workers’ compensation insurance would be injury or occupational 
 diseases that arose out of and in the course of employment. The exclusions of workers’ 
 compensation insurance included injury caused by these reasons: intentional self-inflicted injury, 
@@ -206,6 +213,10 @@ capital for reserving (EIOPA, 2026; International Association of Insurance Super
 The overall distribution of aggregate loss across each available solar system had relatively low 
 variances, as observed in the graph below. Due the implementation of the single claims limit, the 
 potential long-tailed risks were minimised, as observed in the table below.
+
+<img width="328" height="198" alt="image" src="https://github.com/user-attachments/assets/787d9ab5-603c-41b8-864d-68bed3c73569" />
+
+<img width="447" height="216" alt="image" src="https://github.com/user-attachments/assets/36023c18-a578-4c52-b932-f604271df6be" />
 
 This product was able to ensure a positive net revenue with a probability of 66.21%. This 
 indicated that, although the product remained broadly manageable, there was still a significant 
@@ -237,6 +248,8 @@ summary of short-term and long-term aggregate claims, premiums and net revenue w
 the entire portfolio rather than each distinct solar system. The table below summarises the 
 distributions, using a Monte Carlo simulation with N = 10000.
 
+<img width="767" height="273" alt="image" src="https://github.com/user-attachments/assets/e89f2f43-b17e-4717-8144-6b82f6904bbc" />
+
 The results showed that even in the worst 1% of cases, the net revenue achieved by GGIC for 
 cargo loss coverage was still profitable. Furthermore, the underwriting combined ratio was 
 calculated to be approximately 84–86% in both the short- and long-term, proving that the benefit 
@@ -264,6 +277,10 @@ The expected losses and capital needs were projected using 10,000 Monte Carlo si
 approach ensured sufficient capital reserves for disastrous events whilst also keeping premiums 
 fair. The table below summarised the short-term aggregate results, and a graph displaying the 
 short-term densities was also provided.
+
+<img width="313" height="199" alt="image" src="https://github.com/user-attachments/assets/7d67e7a6-c45a-48f1-9b00-22cd49e685f8" />
+
+<img width="424" height="199" alt="image" src="https://github.com/user-attachments/assets/8adf9065-0d6c-4247-8000-3193de48eb70" />
 
 In the long-term, the expected annual claims cost for the Helionis Cluster increased to 70.71 
 million. This growth reflected the aging of equipment as well as the expansion of policyholder’s 
@@ -293,6 +310,18 @@ The premiums were calculated based on the total loss and adjusted by the estimat
 and profit margin. For the solar systems with available data, the following table summarised the 
 statistics for claims costs, returns and net revenue.
 
+<img width="772" height="247" alt="image" src="https://github.com/user-attachments/assets/a437b272-414f-452e-bd7d-0ddb59e1c242" />
+
+In both short- and long-term periods, GGIC was projected to make a profit at any level of 
+aggregate loss, provided the model’s parameters remained constant. The underwriting combined 
+ratio was also estimated to be about 78% in both the short- and long-term, ensuring competitive 
+viability in the market.
+
+Extreme scenarios had the most influence on short-term aggregates, hence stress tests were 
+performed only on a one-year period. The same method was applied to project the same statistics 
+after adjusting the parameters of the models. The result predicted negative revenues for all three 
+cases that were tested, but these outcomes had only a small probability of occurring (see 
+Appendix 8.4.4.2 for details).
 ---
 ### 4 Risk Identification & Risk Assessment
 
@@ -335,6 +364,8 @@ From the risk matrix and the description of each risk’s impacts on the four ha
 of risk faced by each hazard area could be categorised for each applicable solar system. The table 
 below summarised the level of risk for each hazard area per solar system, using an 
 Extreme/High/Medium/Low ranking system.
+
+<img width="777" height="131" alt="image" src="https://github.com/user-attachments/assets/8cda2e56-3e78-4273-8b48-149b5b25eebd" />
 
 However, further considerations should also be made to consider correlated risk scenarios. These 
 include galaxy-wide radiation episodes which affect multiple/all solar systems and supply chain 
