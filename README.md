@@ -130,7 +130,7 @@ and rating relativities recalibrated to better reflect the underlying risk chara
 and reinsurance policies can also adjust in response to changes to environmental hazards and risk 
 mitigation processes within each solar system.
 
-
+---
 ### 2.3 Equipment Failure
 GGIC defines equipment failure as the sudden mechanical or electrical breakdown of mining 
 assets. The base premium for the coverage of a standard unit of equipment was Đ15,000. Similar 
@@ -172,6 +172,7 @@ reward policyholders with a 5% premium discount for using advanced predictive sy
 would improve safe mining practices across all solar systems (Munich Re 2024; Swiss Re 
 Institute 2024).
 
+---
 ### 2.4 Worker’s Compensation
 Worker’s compensation was structured on an annual basis to provide funding for medical care, 
 rehabilitation, and wage replacement for workers who were injured on the job or contracted 
@@ -192,6 +193,8 @@ diseases that arose out of and in the course of employment. The exclusions of wo
 compensation insurance included injury caused by these reasons: intentional self-inflicted injury, 
 intoxication or drug use, serious misconduct, commuting accidents, and other non-work-related 
 causes.
+
+---
 
 ### 3 Pricing and Capital Modelling
 The four hazard areas were modelled with the assumption that they did not have any interactions 
@@ -219,6 +222,7 @@ viable (see Appendix 8.4.1 for details). Even with this result, the product for 
 would need to be regularly reviewed in conjunction with the cargo loss product to ensure 
 appropriate premiums and limit structures were in force as well as an adequate level of capital.
 
+---
 ### 3.2 Cargo Loss
 Premiums were determined at an annual level and hence the level of exposure needed to be 
 accounted for in the distribution of claim frequencies. As mentioned earlier, the lower exposures 
@@ -254,6 +258,7 @@ Catastrophic radiation events may be partially reflected through the route risk 
 approach taken was still limited in its modelling capabilities.
 
 
+---
 ### 3.3 Equipment Failure
 The expected losses and capital needs were projected using 10,000 Monte Carlo simulations. This 
 approach ensured sufficient capital reserves for disastrous events whilst also keeping premiums 
@@ -276,6 +281,7 @@ premiums. The probability of these catastrophic events was extremely low but sti
 considered with reinsurance to address such risks.
 
 
+---
 ### 3.4 Workers’ Compensation
 The loss distribution follows a compound Poisson distribution, modelled by two parts: frequency 
 and severity. A Poisson GLM was used to model frequency and a two-step Gamma GLM with a 
@@ -287,6 +293,7 @@ The premiums were calculated based on the total loss and adjusted by the estimat
 and profit margin. For the solar systems with available data, the following table summarised the 
 statistics for claims costs, returns and net revenue.
 
+---
 ### 4 Risk Identification & Risk Assessment
 A risk matrix was produced to rank the main risks 
 faced in each relevant solar system. While the 
@@ -333,15 +340,19 @@ across all hazard areas for the affected solar systems. Supply chain and communi
 would increase the level of risk across all hazard areas for the affected solar systems, although a 
 smaller increase in risk would be observed in Workers’ Compensation and Equipment Failure.
 
+---
 ### 5 Key Assumptions
 
 
+---
 ### 6 Data and Data Limitations
 ### 6.1 Data Sources
 The project data provided the primary foundation for this analysis. Financial statements were 
 examined from similar high-risk industries. This research established a realistic cost of capital 
 rate and expense ratio. These benchmarks were used to ensure premium prices remained 
 competitive in the short- and long-terms.
+
+---
 ### 6.2 Data Limitations
 • Incorrect or missing data reduced the accuracy of modelling and revenue projections. This 
 may have led to some variables lacking statistical significance during the testing of regression 
@@ -354,6 +365,8 @@ realistically with any distribution.
 comparative benchmarks to evaluate the effectiveness of the product.
 • Limited information was known about the finances of GGIC. As a result, assumptions were 
 made about their financial structure and expenditure.
+
+---
 ### 6.3 Use of Artificial Intelligence (AI)
 Large Language Models (LLMs) were used to assist with technical components of the report. The 
 LLMs were utilised in three main ways:
@@ -365,6 +378,7 @@ Responses provided by LLMs were used carefully, ensuring that the outputs receiv
 AI tools were audited manually throughout the development of the product. This ensured that 
 human judgement was consistently throughout the project.
 
+---
 ### 7 Conclusion
 This report proposes a comprehensive insurance package for Cosmic Quarry Mining Corporation 
 (CQMC), covering the four major hazard areas of business interruption, cargo loss, equipment 
