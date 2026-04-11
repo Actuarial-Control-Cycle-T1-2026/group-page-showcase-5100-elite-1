@@ -318,11 +318,8 @@ aggregate loss, provided the model’s parameters remained constant. The underwr
 ratio was also estimated to be about 78% in both the short- and long-term, ensuring competitive 
 viability in the market.
 
-Extreme scenarios had the most influence on short-term aggregates, hence stress tests were 
-performed only on a one-year period. The same method was applied to project the same statistics 
-after adjusting the parameters of the models. The result predicted negative revenues for all three 
-cases that were tested, but these outcomes had only a small probability of occurring (see 
-Appendix 8.4.4.2 for details).
+Extreme scenarios had the most influence on short-term aggregates, hence stress tests were performed only on a one-year period. The same method was applied to project the same statistics after adjusting the parameters of the models. The result predicted negative revenues for all three cases that were tested, but these outcomes had only a small probability of occurring (see Appendix 8.4.4.2 for details).
+
 ---
 ### 4 Risk Identification & Risk Assessment
 
@@ -396,10 +393,13 @@ may have led to some variables lacking statistical significance during the testi
 models. The data also lacked deeper levels of granularity, limiting the ability to tailor the 
 product to the needs of the client. Some hazards also lacked clear mappings to specific solar 
 systems.
+
 • Limited historical information about inflation and spot rates proved difficult to model 
 realistically with any distribution.
+
 • The absence of prior data or models about interstellar mining meant there were no 
 comparative benchmarks to evaluate the effectiveness of the product.
+
 • Limited information was known about the finances of GGIC. As a result, assumptions were 
 made about their financial structure and expenditure.
 
