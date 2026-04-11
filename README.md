@@ -14,10 +14,15 @@ although the uncertainty that arose from the interstellar mining industry could 
 due to the different risk characteristics of each solar system and the interstellar environments, the 
 product was able to ensure comprehensive coverage of all these hazards whilst ensuring a 
 positive net revenue, even at the worst 1% of cases. Some implemented design features included:
+
 • Deductibles and limits to claims based on each solar system to protect from catastrophic losses.
+
 • Exclusions for certain events that occur in specific hazards.
+
 • Waiting periods to protect from fraudulent claims.
+
 • Rating relativities applied to premiums to provide more tailored coverage of hazards.
+
 • Discounts applied to incentivise safer interstellar mining practices.
 
 The product was developed to be highly adaptable to future developments, with the models used 
