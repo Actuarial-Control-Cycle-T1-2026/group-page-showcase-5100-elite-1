@@ -35,14 +35,11 @@ frameworks in the following methods:
 
 1) Risk Transfer – CQMC could transfer their extreme risks, such as exposure to strong solar 
 radiation, to GGIC
-
-3) Operational Insights – Managerial roles could incorporate GGIC’s sensor data into their 
+2) Operational Insights – Managerial roles could incorporate GGIC’s sensor data into their 
 safety dashboards to assist in detecting hazards in real-time
-
-5) Capital Efficiency – Since GGIC would protect against large, unpredictable losses, 
+3) Capital Efficiency – Since GGIC would protect against large, unpredictable losses, 
 CQMC could refocus its capital on smaller, routine risks
-
-7) Incentive Alignment – The discount system utilised in GGIC’s product would align to 
+4) Incentive Alignment – The discount system utilised in GGIC’s product would align to 
 CQMC’s safety goals, unifying both companies in their approach to managing risk.
 ---
 ### 2 Product Design
@@ -58,10 +55,8 @@ evidence to begin the approval process for a claim:
 
 1) Incident and/or engineering reports which recorded and confirmed damages and loss to 
 property
-
-3) Operational logs reporting downtime and recovery
-4) 
-5) Third-party outage information to determine the level of dependencies of other operations 
+2) Operational logs reporting downtime and recovery
+3) Third-party outage information to determine the level of dependencies of other operations 
 on the damaged property in question
 
 The premium would be paid annually, providing coverage for a term of one year including a 7-
