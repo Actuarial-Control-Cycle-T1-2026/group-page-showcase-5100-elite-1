@@ -97,8 +97,6 @@ and limits would be adjusted to more accurately depict the risks faced by each s
 those in the Helionis cluster due to it being the system currently with the largest aggregate losses 
 and volatility.
 
----
-
 ### 2.2 Cargo Loss
 GGIC defines cargo loss as the partial or complete loss of cargo and/or its vessel. The premiums 
 were set based on a rating system, with a base premium of Đ196,421.30. This rating system 
@@ -139,7 +137,6 @@ and rating relativities recalibrated to better reflect the underlying risk chara
 and reinsurance policies can also adjust in response to changes to environmental hazards and risk 
 mitigation processes within each solar system.
 
----
 ### 2.3 Equipment Failure
 GGIC defines equipment failure as the sudden mechanical or electrical breakdown of mining 
 assets. The base premium for the coverage of a standard unit of equipment was Đ15,000. Similar 
@@ -183,7 +180,6 @@ reward policyholders with a 5% premium discount for using advanced predictive sy
 would improve safe mining practices across all solar systems (Munich Re 2024; Swiss Re 
 Institute 2024).
 
----
 ### 2.4 Worker’s Compensation
 Worker’s compensation was structured on an annual basis to provide funding for medical care, 
 rehabilitation, and wage replacement for workers who were injured on the job or contracted 
@@ -304,7 +300,6 @@ premiums. The probability of these catastrophic events was extremely low but sti
 considered with reinsurance to address such risks.
 
 
----
 ### 3.4 Workers’ Compensation
 The loss distribution follows a compound Poisson distribution, modelled by two parts: frequency 
 and severity. A Poisson GLM was used to model frequency and a two-step Gamma GLM with a 
@@ -385,6 +380,8 @@ smaller increase in risk would be observed in Workers’ Compensation and Equipm
 
 <img width="609" height="297" alt="image" src="https://github.com/user-attachments/assets/937b8f2f-cb8c-4765-a73b-1f5871494fb7" />
 
+Other assumptions specific to each hazard area can be found in Appendix 8.5.
+
 ---
 ### 6 Data and Data Limitations
 ### 6.1 Data Sources
@@ -393,7 +390,6 @@ examined from similar high-risk industries. This research established a realisti
 rate and expense ratio. These benchmarks were used to ensure premium prices remained 
 competitive in the short- and long-terms.
 
----
 ### 6.2 Data Limitations
 • Incorrect or missing data reduced the accuracy of modelling and revenue projections. This 
 may have led to some variables lacking statistical significance during the testing of regression 
@@ -407,7 +403,6 @@ comparative benchmarks to evaluate the effectiveness of the product.
 • Limited information was known about the finances of GGIC. As a result, assumptions were 
 made about their financial structure and expenditure.
 
----
 ### 6.3 Use of Artificial Intelligence (AI)
 Large Language Models (LLMs) were used to assist with technical components of the report. The 
 LLMs were utilised in three main ways:
