@@ -32,18 +32,22 @@ There was also the possibility of adapting the product to extend coverage into o
 should CQMC decide to expand the business operations into these yet to be insured regions.
 CQMC can use the insurance package and integrate it into its Enterprise Risk Management 
 frameworks in the following methods:
+
 1) Risk Transfer – CQMC could transfer their extreme risks, such as exposure to strong solar 
 radiation, to GGIC
-2) Operational Insights – Managerial roles could incorporate GGIC’s sensor data into their 
+
+3) Operational Insights – Managerial roles could incorporate GGIC’s sensor data into their 
 safety dashboards to assist in detecting hazards in real-time
-3) Capital Efficiency – Since GGIC would protect against large, unpredictable losses, 
+
+5) Capital Efficiency – Since GGIC would protect against large, unpredictable losses, 
 CQMC could refocus its capital on smaller, routine risks
-4) Incentive Alignment – The discount system utilised in GGIC’s product would align to 
+
+7) Incentive Alignment – The discount system utilised in GGIC’s product would align to 
 CQMC’s safety goals, unifying both companies in their approach to managing risk.
 ---
 ### 2 Product Design
 This product was designed to ensure the effective coverage of four hazard areas encountered by 
-CQMC: business interruption, cargo loss, equipment failure, and worker’s compensation. Shortterm (1 year) and long-term (10 year) considerations were made to ensure the sustainability of the product, the short- and long-term profitability, and the competitiveness of the insurance product compared to the market.
+CQMC: business interruption, cargo loss, equipment failure, and worker’s compensation. Short-term (1 year) and long-term (10 year) considerations were made to ensure the sustainability of the product, the short- and long-term profitability, and the competitiveness of the insurance product compared to the market.
 
 ### 2.1 Business Interruption
 GGIC defines business interruption as the loss of gross profit or contribution margins as well as 
@@ -51,10 +55,13 @@ additional expenses incurred by a company due to a disruption in their operation
 the disruption to the operations needed to be caused by direct physical damage to the insured’s 
 property. As a result, all business interruption claims would require the following pieces of 
 evidence to begin the approval process for a claim:
+
 1) Incident and/or engineering reports which recorded and confirmed damages and loss to 
 property
-2) Operational logs reporting downtime and recovery
-3) Third-party outage information to determine the level of dependencies of other operations 
+
+3) Operational logs reporting downtime and recovery
+4) 
+5) Third-party outage information to determine the level of dependencies of other operations 
 on the damaged property in question
 
 The premium would be paid annually, providing coverage for a term of one year including a 7-
