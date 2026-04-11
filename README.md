@@ -14,11 +14,11 @@ although the uncertainty that arose from the interstellar mining industry could 
 due to the different risk characteristics of each solar system and the interstellar environments, the 
 product was able to ensure comprehensive coverage of all these hazards whilst ensuring a 
 positive net revenue, even at the worst 1% of cases. Some implemented design features included:
-1) Deductibles and limits to claims based on each solar system to protect from catastrophic losses.
-2) Exclusions for certain events that occur in specific hazards.
-3) Waiting periods to protect from fraudulent claims.
-4) Rating relativities applied to premiums to provide more tailored coverage of hazards.
-5) Discounts applied to incentivise safer interstellar mining practices.
+• Deductibles and limits to claims based on each solar system to protect from catastrophic losses.
+• Exclusions for certain events that occur in specific hazards.
+• Waiting periods to protect from fraudulent claims.
+• Rating relativities applied to premiums to provide more tailored coverage of hazards.
+• Discounts applied to incentivise safer interstellar mining practices.
 
 The product was developed to be highly adaptable to future developments, with the models used 
 to project future claims costs, premium returns and net revenue being able to be easily adjusted to 
@@ -38,8 +38,7 @@ CQMC’s safety goals, unifying both companies in their approach to managing ris
 ---
 ### 2 Product Design
 This product was designed to ensure the effective coverage of four hazard areas encountered by 
-CQMC: business interruption, cargo loss, equipment failure, and worker’s compensation. Shortterm (1 year) and long-term (10 year) considerations were made to ensure the sustainability of the 
-product, the short- and long-term profitability, and the competitiveness of the insurance product compared to the market.
+CQMC: business interruption, cargo loss, equipment failure, and worker’s compensation. Shortterm (1 year) and long-term (10 year) considerations were made to ensure the sustainability of the product, the short- and long-term profitability, and the competitiveness of the insurance product compared to the market.
 
 ### 2.1 Business Interruption
 GGIC defines business interruption as the loss of gross profit or contribution margins as well as 
