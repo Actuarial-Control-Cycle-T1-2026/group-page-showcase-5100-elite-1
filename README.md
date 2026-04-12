@@ -426,17 +426,4 @@ normal conditions. Stress testing showed that policy limits, deductibles, exclus
 reinsurance helped control extreme risks making the proposed insurance framework both 
 sustainable and adaptable for future space mining operations.
 
-### Congrats on completing the [2026 SOA Research Challenge](https://www.soa.org/research/opportunities/2026-student-research-case-study-challenge/)!
-> Now it's time to build your own website to showcase your work.  
-> Creating a website using GitHub Pages is simple and a great way to present your project.
 
-This page is written in Markdown.
-- Click the [assignment link](https://classroom.github.com/a/FxAEmrI0) to accept your assignment.
-
----
-
-> Be creative! You can embed or link your [data](player_data_salaries_2020.csv), [code](sample-data-clean.ipynb), and [images](ACC.png) here.
-
-More information on GitHub Pages can be found [here](https://pages.github.com/).
-
-![](Actuarial.gif)
