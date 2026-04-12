@@ -455,4 +455,5 @@ https://www.sira.nsw.gov.au/__data/assets/pdf_file/0005/334175/FINAL_Workers-com
 
 • Davoudi Kakhki, F., Freeman, S. A., & Mosher, G. A. (2018). Analyzing Large Workers’ Compensation Claims Using Generalized Linear Models and Monte Carlo Simulation. Safety, 4(4), 57. https://doi.org/10.3390/safety4040057
 
-Thank you.gif<img width="776" height="116" alt="gif" src="Thank you.gif" />
+---
+<img width="200" height="200" alt="gif" src="Thank you.gif" />
