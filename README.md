@@ -211,7 +211,7 @@ between them. As a result, the pricing and capital modelling for the entire prod
 equivalent to the sum of the premiums set for the product price and the sum of the required 
 capital for reserving (EIOPA, 2026; International Association of Insurance Supervisors, 2023).
 
-###3.1 Business Interruption
+### 3.1 Business Interruption
 The overall distribution of aggregate loss across each available solar system had relatively low 
 variances, as observed in the graph below. Due the implementation of the single claims limit, the 
 potential long-tailed risks were minimised, as observed in the table below.
