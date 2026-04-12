@@ -429,17 +429,17 @@ sustainable and adaptable for future space mining operations.
 ---
 ### Referrences
 
-Yan, J, Guszcza, J, Flynn, M, & Wu, CSP, 2009, “Applications of the Offset in Property-Casualty Predictive Modeling”. Casualty Actuarial Society E–Forum, Winter 2009, pp. 366–385, accessed 24 February 2026, https://www.casact.org/abstract/cas-e-forum-2009-winter.
-360iResearch 2025, Machinery Breakdown Insurance Market, 360iResearch, viewed 13 March 2026, https://www.360iresearch.com/library/intelligence/machinery-breakdown-insurance-market.
-Allianz Global Corporate & Specialty 2024, Mining Risk Report 2024, Allianz, viewed 13 March 2026, https://www.agcs.allianz.com/insights.html.
-Coal Services 2025, Premium Pricing 2025-26, Coal Services NSW, viewed 13 March 2026, https://www.coalservices.com.au/employers/premiums/.
-Marsh McLennan 2025, Global Insurance Market Index 2025, Marsh, viewed 13 March 2026, https://www.marsh.com/en/services/insights/global-insurance-market-index.html.
-Munich Re 2024, Engineering and Machinery Insurance Solutions, Munich Re, viewed 13 March 2026, https://www.munichre.com/en/solutions/for-industry-clients/engineering.html.
-Swiss Re Institute 2024, Energy and Mining: Insurance loss trends, Swiss Re, viewed 13 March 2026, https://www.swissre.com/institute/research/topics-and-risk-dialogues/energy-and-mining.html.
-Willis Towers Watson 2025, Mining Risk Review 2025, WTW, viewed 13 March 2026, https://www.wtwco.com/en-gb/insights/2025/01/mining-risk-review.
-WorkCover WA 2025, Recommended Premium Rates 2025/26, Government of Western Australia, viewed 13 March 2026, https://www.workcover.wa.gov.au/resources/premium-rates/.
-National Academy of Social Insurance. (2024). Workers’ Compensation: Benefits, Costs, and Coverage (2021 Data). Washington, DC.
+• Yan, J, Guszcza, J, Flynn, M, & Wu, CSP, 2009, “Applications of the Offset in Property-Casualty Predictive Modeling”. Casualty Actuarial Society E–Forum, Winter 2009, pp. 366–385, accessed 24 February 2026, https://www.casact.org/abstract/cas-e-forum-2009-winter.
+• 360iResearch 2025, Machinery Breakdown Insurance Market, 360iResearch, viewed 13 March 2026, https://www.360iresearch.com/library/intelligence/machinery-breakdown-insurance-market.
+• Allianz Global Corporate & Specialty 2024, Mining Risk Report 2024, Allianz, viewed 13 March 2026, https://www.agcs.allianz.com/insights.html.
+• Coal Services 2025, Premium Pricing 2025-26, Coal Services NSW, viewed 13 March 2026, https://www.coalservices.com.au/employers/premiums/.
+• Marsh McLennan 2025, Global Insurance Market Index 2025, Marsh, viewed 13 March 2026, https://www.marsh.com/en/services/insights/global-insurance-market-index.html.
+• Munich Re 2024, Engineering and Machinery Insurance Solutions, Munich Re, viewed 13 March 2026, https://www.munichre.com/en/solutions/for-industry-clients/engineering.html.
+• Swiss Re Institute 2024, Energy and Mining: Insurance loss trends, Swiss Re, viewed 13 March 2026, https://www.swissre.com/institute/research/topics-and-risk-dialogues/energy-and-mining.html.
+• Willis Towers Watson 2025, Mining Risk Review 2025, WTW, viewed 13 March 2026, https://www.wtwco.com/en-gb/insights/2025/01/mining-risk-review.
+• WorkCover WA 2025, Recommended Premium Rates 2025/26, Government of Western Australia, viewed 13 March 2026, https://www.workcover.wa.gov.au/resources/premium-rates/.
+• National Academy of Social Insurance. (2024). Workers’ Compensation: Benefits, Costs, and Coverage (2021 Data). Washington, DC.
 https://www.nasi.org/2024/02/02/workers-compensation-benefits-costs-and-coverage-2021-data/
-Safe Work Australia. (2018). Workers Compensation Market Practice and Premiums Guidelines: For premium filings on or after 1 March 2018. Canberra, Australia.
+• Safe Work Australia. (2018). Workers Compensation Market Practice and Premiums Guidelines: For premium filings on or after 1 March 2018. Canberra, Australia.
 https://www.sira.nsw.gov.au/__data/assets/pdf_file/0005/334175/FINAL_Workers-compensation-MPPGs_1Mar2018.pdf
-Davoudi Kakhki, F., Freeman, S. A., & Mosher, G. A. (2018). Analyzing Large Workers’ Compensation Claims Using Generalized Linear Models and Monte Carlo Simulation. Safety, 4(4), 57. https://doi.org/10.3390/safety4040057
+• Davoudi Kakhki, F., Freeman, S. A., & Mosher, G. A. (2018). Analyzing Large Workers’ Compensation Claims Using Generalized Linear Models and Monte Carlo Simulation. Safety, 4(4), 57. https://doi.org/10.3390/safety4040057
