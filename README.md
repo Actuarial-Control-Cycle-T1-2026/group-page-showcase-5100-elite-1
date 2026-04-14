@@ -427,7 +427,7 @@ reinsurance helped control extreme risks making the proposed insurance framework
 sustainable and adaptable for future space mining operations.
 
 ---
-### Referrences
+### References
 
 • Yan, J, Guszcza, J, Flynn, M, & Wu, CSP, 2009, “Applications of the Offset in Property-Casualty Predictive Modeling”. Casualty Actuarial Society E–Forum, Winter 2009, pp. 366–385, accessed 24 February 2026, https://www.casact.org/abstract/cas-e-forum-2009-winter.
 
